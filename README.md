@@ -5,7 +5,7 @@
 - 👨🏻‍💻 I am a Full Stack Developer.
 - 📱💻 Work for web and mobile. 
 - 💪🏼 My strengths are React and Node with TypeScript.
-- 💼 I currently work as a FullStack at the company PROUN
+- 💼 I currently work as a FullStack at the company Tailor Hub
 
 ## 📈 My github stats
 
